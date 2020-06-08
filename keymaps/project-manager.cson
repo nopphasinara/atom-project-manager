@@ -1,5 +1,6 @@
 '.platform-darwin':
-  'ctrl-cmd-p': 'project-manager:list-projects'
+  'shift-cmd-o': 'project-manager:list-projects'
+  'ctrl-cmd-p': 'abort!' # project-manager:list-projects
 
 '.platform-win32':
   'alt-shift-P': 'project-manager:list-projects'
