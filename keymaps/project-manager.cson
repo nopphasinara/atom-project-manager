@@ -1,3 +1,9 @@
+## CUSTOM ##
+'atom-workspace':
+  'alt-cmd-p': 'project-manager:edit-projects'
+  'ctrl-alt-cmd-p': 'project-manager:update-projects'
+
+
 '.platform-darwin':
   'shift-cmd-o': 'project-manager:list-projects'
   'ctrl-cmd-p': 'abort!' # project-manager:list-projects
